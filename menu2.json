@@ -176,9 +176,12 @@
         "items": [
           {
             "name": "PB Work Queue Monitoring",
-            "url": "https://app.powerbi.com/groups/me/reports/7185ecf7-52dc-4cd3-95f2-be03e9a0c09b/f3ecc976484a7e6b2888?ctid=0598535e-625d-4d43-86bb-5240e2e61ee0&experience=power-bi",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/12d77cf6-dc29-4503-bc25-e08fd942231a/f3ecc976484a7e6b2888?experience=power-bi",
             "linkType": "report",
-            "inDevelopment": false
+            "inDevelopment": false,
+            "type": "report",
+            "openNewTab": false,
+            "pageCss": ""
           }
         ]
       },
