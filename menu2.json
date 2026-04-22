@@ -336,6 +336,23 @@
         "inDevelopment": false,
         "openNewTab": true,
         "pageCss": ""
+      },
+      {
+        "name": "Test",
+        "items": [
+          {
+            "name": "Test",
+            "url": "https://app.powerbi.com/groups/8d966faa-0abd-4694-b3b0-be795b35ef5e/reports/56725048-8214-4938-b4b1-db5f0820b7d9",
+            "linkType": "report",
+            "type": "report",
+            "inDevelopment": false,
+            "allowBuild": false,
+            "openNewTab": false,
+            "pageCss": "header.pbi-bgc-tp.tri-overflow-container {display:none}"
+          }
+        ],
+        "type": "folder",
+        "folderUrl": ""
       }
     ],
     "type": "folder",
