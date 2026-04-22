@@ -348,7 +348,7 @@
             "inDevelopment": false,
             "allowBuild": true,
             "openNewTab": false,
-            "pageCss": "button#editBtn {display: none;}\nbutton:has(span[localize*=\"Manage\"]) {\n    display: none !important;\n}",
+            "pageCss": "button#editBtn {display: none;}\n\nbutton:has(span[localize*=\"Manage\"]) {display: none !important;}\n\nbutton:has(span[localize*=\"Setting\"]) {display: none !important;}\n\nbutton:has(span[localize*=\"Print\"]) {display: none !important;}\n\nbutton:has(span[localize*=\"Embed\"]) {display: none !important;}\n\nbutton:has(span[localize*=\"Explore\"]) {display: none !important;}",
             "isHidden": true
           }
         ],
