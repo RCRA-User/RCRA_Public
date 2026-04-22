@@ -348,7 +348,7 @@
             "inDevelopment": false,
             "allowBuild": true,
             "openNewTab": false,
-            "pageCss": "header.pbi-bgc-tp.tri-overflow-container {display:none}\n\nbutton#editBtn {display: none;}",
+            "pageCss": "button#editBtn {display: none;}",
             "isHidden": true
           }
         ],
