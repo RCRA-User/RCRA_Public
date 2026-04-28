@@ -275,7 +275,17 @@
       },
       {
         "name": "Myriam Demosthenes",
-        "items": [],
+        "items": [
+          {
+            "name": "SBO Lockbox",
+            "url": "https://app.powerbi.com/groups/me/reports/8375312e-1577-4b34-927a-d2d6b7c621ad/d0fb3900950b1401a088?ctid=0598535e-625d-4d43-86bb-5240e2e61ee0&openReportSource=EmailSubscription&experience=power-bi",
+            "linkType": "report",
+            "type": "report",
+            "inDevelopment": false,
+            "openNewTab": false,
+            "pageCss": ""
+          }
+        ],
         "type": "folder",
         "folderUrl": ""
       },
