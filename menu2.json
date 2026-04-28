@@ -73,71 +73,6 @@
             "inDevelopment": false
           }
         ]
-      },
-      {
-        "name": "Users",
-        "items": [
-          {
-            "name": "Adam Gobin",
-            "items": [
-              {
-                "name": "HB Under 10k Account Count",
-                "url": "https://app.powerbi.com/groups/8d966faa-0abd-4694-b3b0-be795b35ef5e/reports/4b33d86c-9d84-494e-8b98-d840e380ddc7/2dbf8c6a570282583871?experience=power-bi",
-                "linkType": "report",
-                "inDevelopment": false
-              }
-            ]
-          },
-          {
-            "name": "Ashley Owenby",
-            "items": [
-              {
-                "name": "HB Charge Blood Draw Issue",
-                "url": "https://app.powerbi.com/groups/8d966faa-0abd-4694-b3b0-be795b35ef5e/reports/e8c21640-3523-4b01-9386-78bee7028345/5a95d5a45af445e7cd29?experience=power-bi",
-                "linkType": "report"
-              }
-            ]
-          },
-          {
-            "name": "Melissa Crozier",
-            "items": [
-              {
-                "name": "Teams Mapping Table 2",
-                "url": "https://wellstarhealthsystem.sharepoint.com/:x:/r/sites/RCRA/_layouts/15/Doc.aspx?sourcedoc=%7BA424F876-C7FB-4087-959D-A5FF3CF1D7AB%7D&file=Plan%20Mapping%20-%20Melissa%20Crozier.xlsx&action=default&mobileredirect=true",
-                "linkType": "excel",
-                "inDevelopment": false,
-                "openNewTab": true
-              }
-            ]
-          },
-          {
-            "name": "Michele Asher",
-            "items": [
-              {
-                "name": "HBI Dashboard",
-                "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/7a8c3d6d-847d-4711-a54a-2fc1ce83d882/513f34b967e7a279633e?experience=power-bi",
-                "linkType": "report",
-                "type": "report",
-                "inDevelopment": false,
-                "openNewTab": false,
-                "pageCss": ""
-              }
-            ],
-            "type": "folder",
-            "folderUrl": ""
-          },
-          {
-            "name": "Kandis Irizarry",
-            "items": [
-              {
-                "name": "Venipuncture",
-                "url": "https://app.powerbi.com/groups/a8a026f4-b9f0-49d1-9cc8-b570a8404b43/reports/edbbead3-b938-43ff-bb39-662938b92aed?experience=power-bi&subfolderId=100371",
-                "linkType": "report",
-                "inDevelopment": false
-              }
-            ]
-          }
-        ]
       }
     ],
     "type": "folder",
@@ -184,15 +119,6 @@
             "pageCss": ""
           }
         ]
-      },
-      {
-        "name": "Users",
-        "items": [
-          {
-            "name": "Ashley Hill",
-            "items": []
-          }
-        ]
       }
     ],
     "type": "folder",
@@ -219,10 +145,6 @@
         "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/46287de0-496d-45c3-aeae-4021b271b2eb/d0fb3900950b1401a088?experience=power-bi",
         "linkType": "report",
         "inDevelopment": false
-      },
-      {
-        "items": [],
-        "name": "Users"
       }
     ],
     "type": "folder",
@@ -299,6 +221,77 @@
     "folderUrl": "",
     "color": "#ffffff",
     "isHidden": true
+  },
+  {
+    "items": [
+      {
+        "name": "Adam Gobin",
+        "items": [
+          {
+            "name": "HB Under 10k Account Count",
+            "url": "https://app.powerbi.com/groups/8d966faa-0abd-4694-b3b0-be795b35ef5e/reports/4b33d86c-9d84-494e-8b98-d840e380ddc7/2dbf8c6a570282583871?experience=power-bi",
+            "linkType": "report",
+            "inDevelopment": false
+          }
+        ]
+      },
+      {
+        "name": "Ashley Owenby",
+        "items": [
+          {
+            "name": "HB Charge Blood Draw Issue",
+            "url": "https://app.powerbi.com/groups/8d966faa-0abd-4694-b3b0-be795b35ef5e/reports/e8c21640-3523-4b01-9386-78bee7028345/5a95d5a45af445e7cd29?experience=power-bi",
+            "linkType": "report"
+          }
+        ]
+      },
+      {
+        "name": "Melissa Crozier",
+        "items": [
+          {
+            "name": "Teams Mapping Table 2",
+            "url": "https://wellstarhealthsystem.sharepoint.com/:x:/r/sites/RCRA/_layouts/15/Doc.aspx?sourcedoc=%7BA424F876-C7FB-4087-959D-A5FF3CF1D7AB%7D&file=Plan%20Mapping%20-%20Melissa%20Crozier.xlsx&action=default&mobileredirect=true",
+            "linkType": "excel",
+            "inDevelopment": false,
+            "openNewTab": true
+          }
+        ]
+      },
+      {
+        "name": "Michele Asher",
+        "items": [
+          {
+            "name": "HBI Dashboard",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/7a8c3d6d-847d-4711-a54a-2fc1ce83d882/513f34b967e7a279633e?experience=power-bi",
+            "linkType": "report",
+            "type": "report",
+            "inDevelopment": false,
+            "openNewTab": false,
+            "pageCss": ""
+          }
+        ],
+        "type": "folder",
+        "folderUrl": ""
+      },
+      {
+        "name": "Myriam Demosthenes",
+        "items": [],
+        "type": "folder",
+        "folderUrl": ""
+      },
+      {
+        "name": "Kandis Irizarry",
+        "items": [
+          {
+            "name": "Venipuncture",
+            "url": "https://app.powerbi.com/groups/a8a026f4-b9f0-49d1-9cc8-b570a8404b43/reports/edbbead3-b938-43ff-bb39-662938b92aed?experience=power-bi&subfolderId=100371",
+            "linkType": "report",
+            "inDevelopment": false
+          }
+        ]
+      }
+    ],
+    "category": "Users"
   },
   {
     "category": "Admin",
