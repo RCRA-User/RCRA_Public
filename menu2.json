@@ -368,7 +368,8 @@
                 "inDevelopment": false,
                 "allowBuild": false,
                 "openNewTab": false,
-                "pageCss": " \nexplore-filter-toolbar {\n    background-color: #a6d5e4;\n}\n.pane-header.themeableElement.ng-star-inserted {\n    background-color: #ccc;\n}\n.content.themeableElement.disable-scroll.ng-star-inserted {\n    background-color: #dcdcdc;\n}\n.bucketHeader.ng-star-inserted {\n    background-color: #a6d5e4;\n    /* text-align: center !important; */\n}\nh2#bucketTitle {\n    text-align: right;\n    font-weight: bold;\n    margin: auto;\n    padding: 5px 0px;\n}\n \nbutton.sectionHeader.ng-star-inserted {\n}\nbutton.sectionHeader.ng-star-inserted {\n    background-color: #1e84a7 !important;\n    color: #fff !important;\n}\n \ninput.pbi-focus-outline {\n    background-color: #fff;\n}"
+                "pageCss": " \nexplore-filter-toolbar {\n    background-color: #a6d5e4;\n}\n.pane-header.themeableElement.ng-star-inserted {\n    background-color: #ccc;\n}\n.content.themeableElement.disable-scroll.ng-star-inserted {\n    background-color: #dcdcdc;\n}\n.bucketHeader.ng-star-inserted {\n    background-color: #a6d5e4;\n    /* text-align: center !important; */\n}\nh2#bucketTitle {\n    text-align: right;\n    font-weight: bold;\n    margin: auto;\n    padding: 5px 0px;\n}\n \nbutton.sectionHeader.ng-star-inserted {\n}\nbutton.sectionHeader.ng-star-inserted {\n    background-color: #1e84a7 !important;\n    color: #fff !important;\n}\n \ninput.pbi-focus-outline {\n    background-color: #fff;\n}",
+                "isHidden": true
               }
             ],
             "type": "folder",
