@@ -209,28 +209,6 @@
     "color": "#ffffff"
   },
   {
-    "category": "Leadership",
-    "items": [
-      {
-        "name": "Users",
-        "items": [
-          {
-            "name": "Jason Siedman",
-            "items": []
-          },
-          {
-            "name": "Joe Reppert",
-            "items": []
-          }
-        ]
-      }
-    ],
-    "type": "folder",
-    "folderUrl": "",
-    "color": "#ffffff",
-    "isHidden": true
-  },
-  {
     "items": [
       {
         "name": "Adam Gobin",
@@ -417,5 +395,27 @@
       "admin",
       "super_admin"
     ]
+  },
+  {
+    "category": "Leadership",
+    "items": [
+      {
+        "name": "Users",
+        "items": [
+          {
+            "name": "Jason Siedman",
+            "items": []
+          },
+          {
+            "name": "Joe Reppert",
+            "items": []
+          }
+        ]
+      }
+    ],
+    "type": "folder",
+    "folderUrl": "",
+    "color": "#ffffff",
+    "isHidden": true
   }
 ]
