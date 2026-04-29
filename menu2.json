@@ -326,7 +326,10 @@
         "folderUrl": ""
       }
     ],
-    "category": "Users"
+    "category": "Users",
+    "type": "folder",
+    "folderUrl": "",
+    "color": "#ffffff"
   },
   {
     "category": "Admin",
