@@ -222,7 +222,8 @@
       }
     ],
     "type": "folder",
-    "folderUrl": ""
+    "folderUrl": "",
+    "color": "#ffffff"
   },
   {
     "items": [
