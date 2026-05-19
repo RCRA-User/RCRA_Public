@@ -208,7 +208,12 @@
           {
             "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/f6c106b0-b27e-4610-b71c-e13cb02ee9f7/ReportSection?experience=power-bi",
             "linkType": "report",
-            "name": "Denials ME"
+            "name": "PB Denials ME",
+            "type": "report",
+            "inDevelopment": false,
+            "allowBuild": false,
+            "openNewTab": false,
+            "pageCss": ""
           }
         ]
       }
