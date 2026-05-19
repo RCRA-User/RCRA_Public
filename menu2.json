@@ -189,6 +189,16 @@
             "inDevelopment": false,
             "openNewTab": false,
             "pageCss": ""
+          },
+          {
+            "name": "PT Solutions",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/cbe707be-fb15-45cc-88a0-508de6be4bd6/ebf2cd1e7107c8356c30?experience=power-bi",
+            "linkType": "report",
+            "type": "report",
+            "inDevelopment": false,
+            "allowBuild": false,
+            "openNewTab": false,
+            "pageCss": ""
           }
         ]
       },
