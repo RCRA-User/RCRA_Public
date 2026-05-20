@@ -345,11 +345,14 @@
     "category": "Admin",
     "items": [
       {
-        "name": "Edit Menu",
+        "name": "Edit Menu 2",
         "url": "menu_editor.html",
         "linkType": "report",
         "inDevelopment": false,
-        "openNewTab": true
+        "openNewTab": true,
+        "type": "report",
+        "allowBuild": false,
+        "pageCss": ""
       },
       {
         "name": "PowerBI Template 4/15",
