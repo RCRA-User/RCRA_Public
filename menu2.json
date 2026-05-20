@@ -33,7 +33,6 @@
     ]
   },
   {
-    "category": "HB",
     "items": [
       {
         "name": "ATB",
@@ -85,7 +84,8 @@
     ],
     "type": "folder",
     "folderUrl": "",
-    "color": "#ffffff"
+    "color": "#ffffff",
+    "category": "HB"
   },
   {
     "category": "PB",
@@ -182,13 +182,14 @@
             "linkType": "report"
           },
           {
-            "name": "UM Denials (Updated)",
+            "name": "UM Denials",
             "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/013b918d-5627-4a1e-8a2e-25a09768d40c/ebf2cd1e7107c8356c30?experience=power-bi",
             "linkType": "report",
             "type": "report",
             "inDevelopment": false,
             "openNewTab": false,
-            "pageCss": ""
+            "pageCss": "",
+            "allowBuild": false
           },
           {
             "name": "PT Solutions",
