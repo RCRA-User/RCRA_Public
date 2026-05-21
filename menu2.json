@@ -160,6 +160,13 @@
     "color": "#ffffff"
   },
   {
+    "category": "Rev Mgmt",
+    "items": [],
+    "type": "folder",
+    "folderUrl": "",
+    "color": "#ffffff"
+  },
+  {
     "items": [
       {
         "name": "HB",
@@ -233,6 +240,16 @@
         "linkType": "report",
         "type": "report",
         "inDevelopment": false,
+        "openNewTab": false,
+        "pageCss": ""
+      },
+      {
+        "name": "FAP Quarterly Reports",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/5db53e5e-87df-4481-a878-cee46aeec8ca/d0fb3900950b1401a088?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "allowBuild": false,
         "openNewTab": false,
         "pageCss": ""
       }
