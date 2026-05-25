@@ -178,7 +178,10 @@
     "items": [],
     "type": "folder",
     "folderUrl": "",
-    "color": "#ffffff"
+    "color": "#ffffff",
+    "allowedGroups": [
+      "group_1779749167266"
+    ]
   },
   {
     "items": [
