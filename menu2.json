@@ -490,5 +490,15 @@
     "folderUrl": "",
     "color": "#ffffff",
     "isHidden": true
+  },
+  {
+    "category": "New Root",
+    "items": [],
+    "type": "workspace",
+    "allowedGroups": [
+      "group_1779748706567"
+    ],
+    "workspaceId": "2f23dfde-70f3-43ef-9dc8-20f79535163c",
+    "folderUrl": ""
   }
 ]
