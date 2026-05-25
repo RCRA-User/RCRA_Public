@@ -181,7 +181,8 @@
     "color": "#ffffff",
     "allowedGroups": [
       "group_1779749167266"
-    ]
+    ],
+    "isHidden": true
   },
   {
     "items": [
