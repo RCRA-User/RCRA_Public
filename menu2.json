@@ -270,7 +270,10 @@
     ],
     "type": "folder",
     "folderUrl": "",
-    "color": "#ffffff"
+    "color": "#ffffff",
+    "allowedGroups": [
+      "group_1779748706567"
+    ]
   },
   {
     "items": [
