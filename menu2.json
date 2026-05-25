@@ -388,7 +388,11 @@
         "openNewTab": true,
         "type": "report",
         "allowBuild": false,
-        "pageCss": ""
+        "pageCss": "",
+        "allowedGroups": [
+          "group_1779748706567",
+          "group_1779749167266"
+        ]
       },
       {
         "name": "PowerBI Template 4/15",
