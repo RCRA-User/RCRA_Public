@@ -179,14 +179,24 @@
   },
   {
     "category": "Rev Mgmt",
-    "items": [],
+    "items": [
+      {
+        "name": "CFB Aging",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/188682d7-216e-4f7a-94c4-7c3d572f05d2/d0fb3900950b1401a088?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": true,
+        "allowBuild": false,
+        "openNewTab": false,
+        "pageCss": ""
+      }
+    ],
     "type": "folder",
     "folderUrl": "",
     "color": "#ffffff",
     "allowedGroups": [
       "group_1779749167266"
-    ],
-    "isHidden": true
+    ]
   },
   {
     "items": [
