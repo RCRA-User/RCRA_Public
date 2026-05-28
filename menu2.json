@@ -318,10 +318,14 @@
         "name": "Kandis Irizarry",
         "items": [
           {
-            "name": "Venipuncture",
-            "url": "https://app.powerbi.com/groups/a8a026f4-b9f0-49d1-9cc8-b570a8404b43/reports/edbbead3-b938-43ff-bb39-662938b92aed?experience=power-bi&subfolderId=100371",
+            "name": "[ RETIRED] Venipuncture",
+            "url": "",
             "linkType": "report",
-            "inDevelopment": false
+            "inDevelopment": false,
+            "type": "report",
+            "allowBuild": false,
+            "openNewTab": false,
+            "pageCss": ""
           }
         ]
       },
