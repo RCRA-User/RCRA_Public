@@ -114,12 +114,31 @@
         "pageCss": ""
       },
       {
+        "name": "Denial Adjustments MTD",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/5f9fa6f9-d9ae-4c36-be8a-aa30fb28064b/d0fb3900950b1401a088?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": true,
+        "allowBuild": false,
+        "openNewTab": false,
+        "pageCss": ""
+      },
+      {
         "name": "Monthly RVU",
         "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/a399a6ea-4c7f-4f6b-90ac-de0681070c7d/d0fb3900950b1401a088?experience=power-bi",
         "linkType": "report",
         "inDevelopment": false,
         "type": "report",
         "allowBuild": false,
+        "openNewTab": false,
+        "pageCss": ""
+      },
+      {
+        "name": "PB Work Queue Monitoring",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/12d77cf6-dc29-4503-bc25-e08fd942231a/f3ecc976484a7e6b2888?experience=power-bi",
+        "linkType": "report",
+        "inDevelopment": false,
+        "type": "report",
         "openNewTab": false,
         "pageCss": ""
       },
@@ -131,20 +150,6 @@
         "inDevelopment": false,
         "openNewTab": false,
         "pageCss": ""
-      },
-      {
-        "name": "Work Queue",
-        "items": [
-          {
-            "name": "PB Work Queue Monitoring",
-            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/12d77cf6-dc29-4503-bc25-e08fd942231a/f3ecc976484a7e6b2888?experience=power-bi",
-            "linkType": "report",
-            "inDevelopment": false,
-            "type": "report",
-            "openNewTab": false,
-            "pageCss": ""
-          }
-        ]
       }
     ],
     "type": "folder",
