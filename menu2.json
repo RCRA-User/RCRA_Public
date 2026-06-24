@@ -228,10 +228,7 @@
     ],
     "type": "folder",
     "folderUrl": "",
-    "color": "#ffffff",
-    "allowedGroups": [
-      "group_1779749167266"
-    ]
+    "color": "#ffffff"
   },
   {
     "items": [
@@ -450,8 +447,7 @@
         "allowBuild": false,
         "pageCss": "",
         "allowedGroups": [
-          "group_1779748706567",
-          "group_1779749167266"
+          "group_1779748706567"
         ]
       },
       {
@@ -522,13 +518,13 @@
     ],
     "type": "folder",
     "folderUrl": "",
-    "inDevelopment": false,
-    "isHidden": false,
-    "color": "#aea0c0",
     "overrideRoles": true,
     "allowedRoles": [
       "admin",
       "super_admin"
+    ],
+    "allowedGroups": [
+      "group_1779748706567"
     ]
   },
   {
