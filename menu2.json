@@ -18,7 +18,8 @@
     "includedTypes": [
       "Report",
       "Exploration"
-    ]
+    ],
+    "isHidden": true
   },
   {
     "category": "Public Workspace",
@@ -30,7 +31,8 @@
     "includedTypes": [
       "Report",
       "Exploration"
-    ]
+    ],
+    "isHidden": true
   },
   {
     "category": "RCRA Prod",
