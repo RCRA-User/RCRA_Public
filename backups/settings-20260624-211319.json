@@ -1,0 +1,78 @@
+{
+  "portalName": "RCRA BI Portal",
+  "defaultSide": "left",
+  "showLayoutBtns": false,
+  "welcomeTitle": "👋 Welcome!",
+  "welcomeDesc": "RCRA BI Portal ",
+  "welcomeSteps": [
+    {
+      "icon": "⭐",
+      "title": "Bookmark this Page!",
+      "text": "Press <b>Ctrl + D</b> (or Cmd + D) to save this page so you can easily return to the portal later."
+    },
+    {
+      "icon": "⬅️",
+      "title": "Use the Sidebar!",
+      "text": "The menu lives on the left.<br><br> Click the <b>Star Icon</b> at the top to <b>Minimize/Maximize</b> the menu.<br><br> The <b>UP</b> arrow puts the sidebar into Mini Mode"
+    }
+  ],
+  "customCss": ".immersiveCopilotChatContainer {\n    display: none !important;\n}\ntrident-global-search-bar {\n    display: none !important;\n}\n.home-container.home-background-fluentTheme {\n    display: none !important;\n}\nbutton#exportMenuBtn {\n    display: none !important;\n}\n\n/* For Data Explorer...but may affect other items */\n \nexplore-filter-toolbar {\n    background-color: #a6d5e4;\n}\n.pane-header.themeableElement.ng-star-inserted {\n    background-color: #ccc;\n}\n.content.themeableElement.disable-scroll.ng-star-inserted {\n    background-color: #dcdcdc;\n}\n.bucketHeader.ng-star-inserted {\n    background-color: #a6d5e4;\n    /* text-align: center !important; */\n}\nh2#bucketTitle {\n    text-align: right;\n    font-weight: bold;\n    margin: auto;\n    padding: 5px 0px;\n}\n \nbutton.sectionHeader.ng-star-inserted {\n}\nbutton.sectionHeader.ng-star-inserted {\n    background-color: #1e84a7 !important;\n    color: #fff !important;\n}\n \ninput.pbi-focus-outline {\n    background-color: #fff;\n}\n/* End Data Explorer area */",
+  "approvedDomains": [
+    "wellstar.org"
+  ],
+  "accessDeniedTitle": "RCRA BI Portal Access Not Verified",
+  "accessDeniedMessage": "Your menu is hidden because this Power BI account is not currently recognized as an approved facility user.\n\nPlease confirm you are signed into Power BI with your approved facility email address, then refresh this page.\n\nIf you believe you should have access, contact your RCRA BI Portal administrator and include the email address shown in your Power BI profile.",
+  "globalAlerts": [
+    {
+      "id": "alert_1782348280219_35400",
+      "enabled": true,
+      "severity": "critical",
+      "scope": "page",
+      "placement": "sidebar",
+      "title": "Page Specific Alert",
+      "message": "Alert message",
+      "dismissible": true,
+      "reshowOnEdit": true,
+      "dismissVersion": "",
+      "startAt": "2026-06-25T00:44:00.000Z",
+      "endAt": "2026-06-26T00:44:00.000Z",
+      "targetUrls": [
+        "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/21396352-6f79-46fa-9d66-c8ededb5d4ff/353e5b971470f38f463f?experience=power-bi"
+      ]
+    },
+    {
+      "id": "alert_1782349521173_52083",
+      "enabled": true,
+      "severity": "warning",
+      "scope": "page",
+      "placement": "overlay",
+      "title": "Page Overlay Alert",
+      "message": "Alert message",
+      "dismissible": true,
+      "reshowOnEdit": true,
+      "dismissVersion": "v_1782349860044_5213",
+      "startAt": "2026-06-25T01:09:00.000Z",
+      "endAt": "2026-06-26T01:09:00.000Z",
+      "targetUrls": [
+        "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/74b2d3fa-91d6-4457-9e87-99659d4bb3f3/e604278ecb316bc0857a?experience=power-bi"
+      ]
+    }
+  ],
+  "securityGroups": [
+    {
+      "id": "group_1779748706567",
+      "name": "RCRA Team",
+      "emails": [
+        "zack.slates@wellstar.org",
+        "alexandra.bocanegra@wellstar.org",
+        "michael.baum@wellstar.org",
+        "wendy.briscoe@wellstar.org",
+        "shanekka.harris@wellstar.org",
+        "megan.stepp@wellstar.org",
+        "antonio.riveracolon@wellstar.org",
+        "jordan.white@wellstar.org",
+        "michele.asher@wellstar.org"
+      ]
+    }
+  ]
+}
