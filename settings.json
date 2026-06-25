@@ -35,6 +35,19 @@
       "startAt": "2026-06-25T00:44:00.000Z",
       "endAt": "2026-06-26T00:44:00.000Z",
       "targetUrls": []
+    },
+    {
+      "id": "alert_1782348468052_98086",
+      "enabled": true,
+      "severity": "critical",
+      "scope": "global",
+      "placement": "sidebar",
+      "title": "Alert title 2",
+      "message": "Alert message 2",
+      "dismissible": true,
+      "startAt": "2026-06-25T00:47:00.000Z",
+      "endAt": "2026-06-26T00:48:00.000Z",
+      "targetUrls": []
     }
   ],
   "securityGroups": [
