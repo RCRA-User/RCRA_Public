@@ -27,14 +27,16 @@
       "id": "alert_1782348280219_35400",
       "enabled": true,
       "severity": "critical",
-      "scope": "global",
-      "placement": "overlay",
-      "title": "Alert title",
+      "scope": "page",
+      "placement": "sidebar",
+      "title": "Page Specific Alert",
       "message": "Alert message",
       "dismissible": true,
       "startAt": "2026-06-25T00:44:00.000Z",
       "endAt": "2026-06-26T00:44:00.000Z",
-      "targetUrls": []
+      "targetUrls": [
+        "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/21396352-6f79-46fa-9d66-c8ededb5d4ff/353e5b971470f38f463f?experience=power-bi"
+      ]
     },
     {
       "id": "alert_1782348468052_98086",
