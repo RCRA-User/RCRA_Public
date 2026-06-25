@@ -32,6 +32,8 @@
       "title": "Page Specific Alert",
       "message": "Alert message",
       "dismissible": true,
+      "reshowOnEdit": true,
+      "dismissVersion": "",
       "startAt": "2026-06-25T00:44:00.000Z",
       "endAt": "2026-06-26T00:44:00.000Z",
       "targetUrls": [
