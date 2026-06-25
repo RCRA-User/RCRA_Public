@@ -20,6 +20,8 @@
   "approvedDomains": [
     "wellstar.org"
   ],
+  "accessDeniedTitle": "RCRA BI Portal Access Not Verified",
+  "accessDeniedMessage": "Your menu is hidden because this Power BI account is not currently recognized as an approved facility user.\n\nPlease confirm you are signed into Power BI with your approved facility email address, then refresh this page.\n\nIf you believe you should have access, contact your RCRA BI Portal administrator and include the email address shown in your Power BI profile.",
   "securityGroups": [
     {
       "id": "group_1779748706567",
