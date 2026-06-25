@@ -1,0 +1,34 @@
+{
+  "portalName": "RCRA BI Portal",
+  "defaultSide": "left",
+  "showLayoutBtns": false,
+  "welcomeTitle": "👋 Welcome!",
+  "welcomeDesc": "RCRA BI Portal ",
+  "welcomeSteps": [
+    {
+      "icon": "⭐",
+      "title": "Bookmark this Page!",
+      "text": "Press <b>Ctrl + D</b> (or Cmd + D) to save this page so you can easily return to the portal later."
+    },
+    {
+      "icon": "⬅️",
+      "title": "Use the Sidebar!",
+      "text": "The menu lives on the left.<br><br> Click the <b>Star Icon</b> at the top to <b>Minimize/Maximize</b> the menu.<br><br> The <b>UP</b> arrow puts the sidebar into Mini Mode"
+    }
+  ],
+  "customCss": ".immersiveCopilotChatContainer {\n    display: none !important;\n}\ntrident-global-search-bar {\n    display: none !important;\n}\n.home-container.home-background-fluentTheme {\n    display: none !important;\n}\nbutton#exportMenuBtn {\n    display: none !important;\n}\n\n/* For Data Explorer...but may affect other items */\n \nexplore-filter-toolbar {\n    background-color: #a6d5e4;\n}\n.pane-header.themeableElement.ng-star-inserted {\n    background-color: #ccc;\n}\n.content.themeableElement.disable-scroll.ng-star-inserted {\n    background-color: #dcdcdc;\n}\n.bucketHeader.ng-star-inserted {\n    background-color: #a6d5e4;\n    /* text-align: center !important; */\n}\nh2#bucketTitle {\n    text-align: right;\n    font-weight: bold;\n    margin: auto;\n    padding: 5px 0px;\n}\n \nbutton.sectionHeader.ng-star-inserted {\n}\nbutton.sectionHeader.ng-star-inserted {\n    background-color: #1e84a7 !important;\n    color: #fff !important;\n}\n \ninput.pbi-focus-outline {\n    background-color: #fff;\n}\n/* End Data Explorer area */",
+  "approvedDomains": [
+    "wellstar.org"
+  ],
+  "accessDeniedTitle": "RCRA BI Portal Access Not Verified",
+  "accessDeniedMessage": "Your menu is hidden because this Power BI account is not currently recognized as an approved facility user.\n\nPlease confirm you are signed into Power BI with your approved facility email address, then refresh this page.\n\nIf you believe you should have access, contact your RCRA BI Portal administrator and include the email address shown in your Power BI profile.",
+  "securityGroups": [
+    {
+      "id": "group_1779748706567",
+      "name": "RCRA Team",
+      "emails": [
+        "zack.slates@wellstar.org"
+      ]
+    }
+  ]
+}
