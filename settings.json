@@ -50,7 +50,7 @@
       "message": "Alert message",
       "dismissible": true,
       "reshowOnEdit": true,
-      "dismissVersion": "v_1782349769484_65853",
+      "dismissVersion": "v_1782349860044_5213",
       "startAt": "2026-06-25T01:09:00.000Z",
       "endAt": "2026-06-26T01:09:00.000Z",
       "targetUrls": [
@@ -63,7 +63,15 @@
       "id": "group_1779748706567",
       "name": "RCRA Team",
       "emails": [
-        "zack.slates@wellstar.org"
+        "zack.slates@wellstar.org",
+        "alexandra.bocanegra@wellstar.org",
+        "michael.baum@wellstar.org",
+        "wendy.briscoe@wellstar.org",
+        "shanekka.harris@wellstar.org",
+        "megan.stepp@wellstar.org",
+        "antonio.riveracolon@wellstar.org",
+        "jordan.white@wellstar.org",
+        "michele.asher@wellstar.org"
       ]
     }
   ]
