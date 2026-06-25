@@ -30,10 +30,10 @@
       "scope": "global",
       "placement": "sidebar",
       "title": "Welcome!",
-      "message": "Don't forget to Hit Control+D to bookmark this page so you can get back to the portal",
+      "message": "Don't forget to Hit Control+D to bookmark this page so you can get back to the portal.",
       "dismissible": true,
       "reshowOnEdit": true,
-      "dismissVersion": "v_1782350471541_47312",
+      "dismissVersion": "v_1782350815389_70032",
       "startAt": "2026-06-24T20:16:00.000Z",
       "endAt": "2026-06-26T01:16:00.000Z",
       "targetUrls": []
