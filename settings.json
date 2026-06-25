@@ -44,7 +44,7 @@
       "placement": "sidebar",
       "title": "Alert title 2",
       "message": "Alert message 2",
-      "dismissible": true,
+      "dismissible": false,
       "startAt": "2026-06-25T00:47:00.000Z",
       "endAt": "2026-06-26T00:48:00.000Z",
       "targetUrls": []
