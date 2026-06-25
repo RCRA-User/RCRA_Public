@@ -548,5 +548,16 @@
     "folderUrl": "",
     "color": "#ffffff",
     "isHidden": true
+  },
+  {
+    "category": "New Root",
+    "items": [],
+    "type": "workspace",
+    "allowedGroups": [
+      "group_1779748706567"
+    ],
+    "workspaceId": "34648886-da4b-4779-b0a7-e51f02961a87",
+    "folderUrl": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/list?experience=power-bi",
+    "color": "#ffffff"
   }
 ]
