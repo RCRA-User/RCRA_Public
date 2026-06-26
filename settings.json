@@ -26,14 +26,14 @@
     {
       "id": "alert_1782435461015_53645",
       "enabled": true,
-      "severity": "info",
+      "severity": "critical",
       "scope": "global",
       "placement": "sidebar",
       "title": "This is an Alert",
       "message": "Alert message HERE sdfg",
       "dismissible": true,
       "reshowOnEdit": true,
-      "dismissVersion": "v_1782435755816_70087",
+      "dismissVersion": "v_1782435902671_85695",
       "startAt": "2026-06-26T00:58:00.000Z",
       "endAt": "2026-06-27T00:58:00.000Z",
       "targetUrls": []
