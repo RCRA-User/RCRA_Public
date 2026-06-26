@@ -26,14 +26,14 @@
     {
       "id": "alert_1782436195903_92441",
       "enabled": true,
-      "severity": "info",
+      "severity": "warning",
       "scope": "global",
       "placement": "sidebar",
       "title": "Test Alert Info Only",
       "message": "Alert message",
       "dismissible": true,
       "reshowOnEdit": true,
-      "dismissVersion": "v_1782436215311_29189",
+      "dismissVersion": "v_1782436241159_89788",
       "startAt": "2026-06-26T01:10:00.000Z",
       "endAt": "2026-06-27T01:10:00.000Z",
       "targetUrls": []
