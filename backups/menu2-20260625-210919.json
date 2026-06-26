@@ -1,0 +1,566 @@
+[
+  {
+    "category": "Home",
+    "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/2ea30f3b-082c-4c0d-8d1a-3d3a3519ae2b/af60c7c6fdcaf9d2a528?experience=power-bi",
+    "linkType": "report",
+    "inDevelopment": false,
+    "type": "report",
+    "openNewTab": false,
+    "pageCss": "section#exploration-container-app-bars {\n    display: none;\n}\n.explorationHost {\n    margin-top: -65px;\n\n}\ntrident-menu-button-bar {\n    display: none !important;\n}\ntrident-information-protection-label-lazy-load.ng-star-inserted {\n    display: none;\n}\n"
+  },
+  {
+    "category": "My Workspace",
+    "items": [],
+    "type": "workspace",
+    "workspaceId": "personal",
+    "folderUrl": "https://app.powerbi.com/groups/me/list?experience=power-bi",
+    "color": "#dbdbdb",
+    "includedTypes": [
+      "Report",
+      "Exploration"
+    ],
+    "isHidden": true
+  },
+  {
+    "category": "Public Workspace",
+    "items": [],
+    "type": "workspace",
+    "workspaceId": "8d966faa-0abd-4694-b3b0-be795b35ef5e",
+    "folderUrl": "https://app.powerbi.com/groups/8d966faa-0abd-4694-b3b0-be795b35ef5e/list?experience=power-bi",
+    "color": "#dbdbdb",
+    "includedTypes": [
+      "Report",
+      "Exploration"
+    ],
+    "isHidden": true
+  },
+  {
+    "category": "RCRA Prod",
+    "items": [],
+    "type": "workspace",
+    "allowedGroups": [
+      "group_1779748706567"
+    ],
+    "workspaceId": "",
+    "folderUrl": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/list?experience=power-bi",
+    "color": "#ffffff",
+    "isHidden": true
+  },
+  {
+    "items": [
+      {
+        "name": "ATB",
+        "items": [
+          {
+            "name": "ATB  Historical (Bucket)",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/3c86379f-e32e-458a-9a24-0d75bf10b666/d0fb3900950b1401a088?experience=power-bi",
+            "linkType": "report"
+          },
+          {
+            "name": "ATB Monthly Report",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/680176ff-2c57-4bdd-9ee0-db6dc86a4bb7/2dbf8c6a570282583871?experience=power-bi",
+            "linkType": "report",
+            "type": "report",
+            "inDevelopment": false,
+            "allowBuild": false,
+            "openNewTab": false,
+            "pageCss": ""
+          },
+          {
+            "name": "Monthly Finance ATB w/Net",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/21396352-6f79-46fa-9d66-c8ededb5d4ff/353e5b971470f38f463f?experience=power-bi",
+            "linkType": "report",
+            "type": "report",
+            "inDevelopment": false,
+            "openNewTab": false,
+            "pageCss": "",
+            "allowBuild": true
+          },
+          {
+            "name": "Monthly ATB",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/a12c80c6-0aee-428c-a533-d8f1d0df9118/2dbf8c6a570282583871?experience=power-bi",
+            "linkType": "report",
+            "inDevelopment": true,
+            "openNewTab": true,
+            "isHidden": true,
+            "type": "report",
+            "allowBuild": false,
+            "pageCss": ""
+          }
+        ]
+      },
+      {
+        "name": "Work Queue",
+        "items": [
+          {
+            "name": "Insurance Compliance",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/27c06c7d-bf2e-4881-b57a-49167444efc2?pbi_source=desktop",
+            "linkType": "report",
+            "inDevelopment": false,
+            "type": "report",
+            "openNewTab": false,
+            "pageCss": ""
+          },
+          {
+            "name": "Work Queue Monitoring",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/a1a12a06-a375-4922-a191-92e98f178c2f?experience=power-bi",
+            "linkType": "report",
+            "inDevelopment": false
+          }
+        ]
+      },
+      {
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/1508aa99-0ce2-4ba1-8ec2-6a4edb78dfec/c01d646a33cba7990287?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "allowBuild": false,
+        "openNewTab": false,
+        "pageCss": "",
+        "name": "Expected vs Actual Payments"
+      }
+    ],
+    "type": "folder",
+    "folderUrl": "",
+    "color": "#ffffff",
+    "category": "HB"
+  },
+  {
+    "category": "PB",
+    "items": [
+      {
+        "name": "Charge Lag Posting",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/74b2d3fa-91d6-4457-9e87-99659d4bb3f3/e604278ecb316bc0857a?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "openNewTab": false,
+        "pageCss": ""
+      },
+      {
+        "name": "Denial Adjustments MTD",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/5f9fa6f9-d9ae-4c36-be8a-aa30fb28064b/d0fb3900950b1401a088?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "allowBuild": false,
+        "openNewTab": false,
+        "pageCss": ""
+      },
+      {
+        "name": "Monthly RVU",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/a399a6ea-4c7f-4f6b-90ac-de0681070c7d/d0fb3900950b1401a088?experience=power-bi",
+        "linkType": "report",
+        "inDevelopment": false,
+        "type": "report",
+        "allowBuild": false,
+        "openNewTab": false,
+        "pageCss": ""
+      },
+      {
+        "name": "PB Work Queue Monitoring",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/12d77cf6-dc29-4503-bc25-e08fd942231a/f3ecc976484a7e6b2888?experience=power-bi",
+        "linkType": "report",
+        "inDevelopment": false,
+        "type": "report",
+        "openNewTab": false,
+        "pageCss": ""
+      },
+      {
+        "name": "POS Collections MTD",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/e2424f91-8c36-4888-97bc-9fe32a5d1a2e/9eaa06e994c4812696ab?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "openNewTab": false,
+        "pageCss": ""
+      },
+      {
+        "name": "Zero-Dollar Unmatched Payments",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/6eba90d1-13f2-433c-8b33-719173811338/d0fb3900950b1401a088?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "allowBuild": false,
+        "openNewTab": false,
+        "pageCss": ""
+      }
+    ],
+    "type": "folder",
+    "folderUrl": "",
+    "color": "#ffffff"
+  },
+  {
+    "category": "SBO",
+    "items": [
+      {
+        "name": "Inbound Calls (801)",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/e4553624-b989-4b2a-af0c-ce92bdb5e085/ReportSection?experience=power-bi",
+        "linkType": "report",
+        "inDevelopment": false
+      },
+      {
+        "name": "My Chart CRM",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/46287de0-496d-45c3-aeae-4021b271b2eb/d0fb3900950b1401a088?experience=power-bi",
+        "linkType": "report",
+        "inDevelopment": false
+      },
+      {
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/933e1559-74a5-40ec-b0a6-20b2fe88662c/d0fb3900950b1401a088?experience=power-bi",
+        "linkType": "report",
+        "inDevelopment": false,
+        "name": "Pending Medicaid"
+      },
+      {
+        "name": "Pending Medicaid EES",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/aadf9820-dbd5-482f-a1ee-08a5a0a2a4df/d0fb3900950b1401a088?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "allowBuild": false,
+        "openNewTab": false,
+        "pageCss": ""
+      }
+    ],
+    "type": "folder",
+    "folderUrl": "",
+    "color": "#ffffff"
+  },
+  {
+    "category": "Rev Mgmt",
+    "items": [
+      {
+        "name": "CFB Aging",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/188682d7-216e-4f7a-94c4-7c3d572f05d2/d0fb3900950b1401a088?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": true,
+        "allowBuild": false,
+        "openNewTab": false,
+        "pageCss": ""
+      }
+    ],
+    "type": "folder",
+    "folderUrl": "",
+    "color": "#ffffff"
+  },
+  {
+    "items": [
+      {
+        "name": "HB",
+        "items": [
+          {
+            "name": "Denial Recovery (Received)",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/90c7d3dd-fb34-4784-950b-ae9f1b6fd2d4/d0fb3900950b1401a088?experience=power-bi",
+            "linkType": "report",
+            "inDevelopment": false
+          },
+          {
+            "name": "Denial Recovery (Closed)",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/b10dcdc0-760a-41db-85a3-cf2fb2c1f4c9/d0fb3900950b1401a088?experience=power-bi",
+            "linkType": "report",
+            "inDevelopment": false
+          },
+          {
+            "name": "PT Solutions",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/cbe707be-fb15-45cc-88a0-508de6be4bd6/ebf2cd1e7107c8356c30?experience=power-bi",
+            "linkType": "report",
+            "type": "report",
+            "inDevelopment": false,
+            "allowBuild": false,
+            "openNewTab": false,
+            "pageCss": ""
+          },
+          {
+            "name": "Recoupments",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/f053477e-d1c3-47e0-a11c-fe053ed92f11/d0fb3900950b1401a088?experience=power-bi",
+            "linkType": "report"
+          },
+          {
+            "name": "UM Denials",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/013b918d-5627-4a1e-8a2e-25a09768d40c/ebf2cd1e7107c8356c30?experience=power-bi",
+            "linkType": "report",
+            "type": "report",
+            "inDevelopment": false,
+            "openNewTab": false,
+            "pageCss": "",
+            "allowBuild": false
+          }
+        ]
+      },
+      {
+        "name": "PB",
+        "items": [
+          {
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/f6c106b0-b27e-4610-b71c-e13cb02ee9f7/ReportSection?experience=power-bi",
+            "linkType": "report",
+            "name": "PB Denials Analytics Dashboard",
+            "type": "report",
+            "inDevelopment": false,
+            "allowBuild": false,
+            "openNewTab": false,
+            "pageCss": ""
+          }
+        ]
+      }
+    ],
+    "category": "Claims / Remits",
+    "type": "folder",
+    "folderUrl": "",
+    "color": "#ffffff"
+  },
+  {
+    "category": "Other",
+    "items": [
+      {
+        "name": "Bill. Ind. Dashboard ",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/47823dd9-7dad-47bb-9ae3-f735d01b21cf/d0fb3900950b1401a088?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "openNewTab": false,
+        "pageCss": "",
+        "allowBuild": false
+      },
+      {
+        "name": "HBI Dashboard",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/7a8c3d6d-847d-4711-a54a-2fc1ce83d882/513f34b967e7a279633e?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "openNewTab": false,
+        "pageCss": "",
+        "allowBuild": false
+      },
+      {
+        "name": "FAP Quarterly Report",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/5db53e5e-87df-4481-a878-cee46aeec8ca/d0fb3900950b1401a088?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "allowBuild": false,
+        "openNewTab": false,
+        "pageCss": ""
+      }
+    ],
+    "type": "folder",
+    "folderUrl": "",
+    "color": "#ffffff"
+  },
+  {
+    "items": [
+      {
+        "name": "Adam Gobin",
+        "items": [
+          {
+            "name": "HB Under 10k Account Count",
+            "url": "https://app.powerbi.com/groups/8d966faa-0abd-4694-b3b0-be795b35ef5e/reports/4b33d86c-9d84-494e-8b98-d840e380ddc7/2dbf8c6a570282583871?experience=power-bi",
+            "linkType": "report",
+            "inDevelopment": false
+          }
+        ]
+      },
+      {
+        "name": "Ashley Owenby",
+        "items": [
+          {
+            "name": "HB Charge Blood Draw Issue",
+            "url": "https://app.powerbi.com/groups/8d966faa-0abd-4694-b3b0-be795b35ef5e/reports/e8c21640-3523-4b01-9386-78bee7028345/5a95d5a45af445e7cd29?experience=power-bi",
+            "linkType": "report"
+          }
+        ]
+      },
+      {
+        "name": "Jason Siedman",
+        "items": [],
+        "type": "folder",
+        "folderUrl": ""
+      },
+      {
+        "name": "Kandis Irizarry",
+        "items": [
+          {
+            "name": "[RETIRED] Venipuncture",
+            "url": "",
+            "linkType": "report",
+            "inDevelopment": false,
+            "type": "report",
+            "allowBuild": false,
+            "openNewTab": false,
+            "pageCss": ""
+          }
+        ]
+      },
+      {
+        "name": "Lynette Web",
+        "items": [
+          {
+            "name": "QA Account Notes",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/2f046f29-13fd-4da3-a3cb-b4b84f5e9f1a/d0fb3900950b1401a088?ctid=0598535e-625d-4d43-86bb-5240e2e61ee0&experience=power-bi",
+            "linkType": "report",
+            "type": "report",
+            "inDevelopment": true,
+            "allowBuild": false,
+            "openNewTab": false,
+            "pageCss": ""
+          }
+        ],
+        "type": "folder",
+        "folderUrl": ""
+      },
+      {
+        "name": "Melissa Crozier",
+        "items": [
+          {
+            "name": "Teams Mapping Table 2",
+            "url": "https://wellstarhealthsystem.sharepoint.com/:x:/r/sites/RCRA/_layouts/15/Doc.aspx?sourcedoc=%7BA424F876-C7FB-4087-959D-A5FF3CF1D7AB%7D&file=Plan%20Mapping%20-%20Melissa%20Crozier.xlsx&action=default&mobileredirect=true",
+            "linkType": "excel",
+            "inDevelopment": false,
+            "openNewTab": true
+          }
+        ]
+      },
+      {
+        "name": "Michele Asher",
+        "items": [],
+        "type": "folder",
+        "folderUrl": ""
+      },
+      {
+        "name": "Myriam Demosthenes",
+        "items": [
+          {
+            "name": "SBO Lockbox",
+            "url": "https://app.powerbi.com/groups/me/reports/8375312e-1577-4b34-927a-d2d6b7c621ad/d0fb3900950b1401a088?ctid=0598535e-625d-4d43-86bb-5240e2e61ee0&openReportSource=EmailSubscription&experience=power-bi",
+            "linkType": "report",
+            "type": "report",
+            "inDevelopment": false,
+            "openNewTab": false,
+            "pageCss": ""
+          }
+        ],
+        "type": "folder",
+        "folderUrl": ""
+      }
+    ],
+    "category": "Users",
+    "type": "folder",
+    "folderUrl": "",
+    "color": "#ffffff"
+  },
+  {
+    "category": "Admin",
+    "items": [
+      {
+        "name": "Edit Menu",
+        "url": "menu_editor.html",
+        "linkType": "report",
+        "inDevelopment": false,
+        "openNewTab": true,
+        "type": "report",
+        "allowBuild": false,
+        "pageCss": "",
+        "allowedGroups": [
+          "group_1779748706567"
+        ]
+      },
+      {
+        "name": "PowerBI Template 4/15",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/c57bc8b2-5987-445f-95a6-acdd0a53cfef/d0fb3900950b1401a088?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "openNewTab": false,
+        "pageCss": ""
+      },
+      {
+        "name": "Edge Store > RCRA BI Portal",
+        "url": "https://microsoftedge.microsoft.com/addons/detail/rcra-bi-portal/flnclkjpjccehcebcaphpngnojbcekec",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "openNewTab": true,
+        "pageCss": ""
+      },
+      {
+        "name": "Chrome Store > RCRA BI Portal",
+        "url": "https://chromewebstore.google.com/detail/rcra-bi-portal/abnicdnfmoblaolbeooeajkbcjpgimfg?authuser=0&hl=en",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "openNewTab": true,
+        "pageCss": ""
+      },
+      {
+        "items": [
+          {
+            "name": "HB",
+            "items": [
+              {
+                "name": "ATB - Finance (CSS CONTROL)",
+                "url": "https://app.powerbi.com/groups/8d966faa-0abd-4694-b3b0-be795b35ef5e/reports/56725048-8214-4938-b4b1-db5f0820b7d9",
+                "linkType": "report",
+                "type": "report",
+                "inDevelopment": false,
+                "allowBuild": true,
+                "openNewTab": false,
+                "pageCss": "button#editBtn {display: none;}\n\nbutton:has(span[localize*=\"Manage\"]) {display: none !important;}\n \n.appBarContent {    display: none !important;}",
+                "isHidden": true
+              },
+              {
+                "name": "BillingAccountExploration Test",
+                "url": "https://app.powerbi.com/groups/826c187c-da5c-4cef-974b-f67280c73a71/explorations/e75af0da-28c1-492d-a425-22d8f7ddb5c7?experience=power-bi",
+                "linkType": "report",
+                "type": "report",
+                "inDevelopment": false,
+                "allowBuild": false,
+                "openNewTab": false,
+                "pageCss": " \nexplore-filter-toolbar {\n    background-color: #a6d5e4;\n}\n.pane-header.themeableElement.ng-star-inserted {\n    background-color: #ccc;\n}\n.content.themeableElement.disable-scroll.ng-star-inserted {\n    background-color: #dcdcdc;\n}\n.bucketHeader.ng-star-inserted {\n    background-color: #a6d5e4;\n    /* text-align: center !important; */\n}\nh2#bucketTitle {\n    text-align: right;\n    font-weight: bold;\n    margin: auto;\n    padding: 5px 0px;\n}\n \nbutton.sectionHeader.ng-star-inserted {\n}\nbutton.sectionHeader.ng-star-inserted {\n    background-color: #1e84a7 !important;\n    color: #fff !important;\n}\n \ninput.pbi-focus-outline {\n    background-color: #fff;\n}",
+                "isHidden": true
+              }
+            ],
+            "type": "folder",
+            "folderUrl": "",
+            "isHidden": true
+          }
+        ],
+        "type": "folder",
+        "folderUrl": "",
+        "name": "-- The Vault -- (Master Copy)",
+        "isHidden": true
+      }
+    ],
+    "type": "folder",
+    "folderUrl": "",
+    "overrideRoles": true,
+    "allowedRoles": [
+      "admin",
+      "super_admin"
+    ],
+    "allowedGroups": [
+      "group_1779748706567"
+    ]
+  },
+  {
+    "category": "Leadership",
+    "items": [
+      {
+        "name": "Users",
+        "items": [
+          {
+            "name": "Jason Siedman",
+            "items": []
+          },
+          {
+            "name": "Joe Reppert",
+            "items": []
+          }
+        ]
+      }
+    ],
+    "type": "folder",
+    "folderUrl": "",
+    "color": "#ffffff",
+    "isHidden": true
+  }
+]
