@@ -22,23 +22,7 @@
   ],
   "accessDeniedTitle": "RCRA BI Portal Access Not Verified",
   "accessDeniedMessage": "Your menu is hidden because this Power BI account is not currently recognized as an approved facility user.\n\nPlease confirm you are signed into Power BI with your approved facility email address, then refresh this page.\n\nIf you believe you should have access, contact your RCRA BI Portal administrator and include the email address shown in your Power BI profile.",
-  "globalAlerts": [
-    {
-      "id": "alert_1782436195903_92441",
-      "enabled": true,
-      "severity": "warning",
-      "scope": "global",
-      "placement": "sidebar",
-      "title": "Test Alert Info Only",
-      "message": "Alert message",
-      "dismissible": true,
-      "reshowOnEdit": true,
-      "dismissVersion": "v_1782436241159_89788",
-      "startAt": "2026-06-26T01:10:00.000Z",
-      "endAt": "2026-06-27T01:10:00.000Z",
-      "targetUrls": []
-    }
-  ],
+  "globalAlerts": [],
   "securityGroups": [
     {
       "id": "group_1779748706567",
