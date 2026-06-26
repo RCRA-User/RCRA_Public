@@ -118,6 +118,11 @@
         "openNewTab": false,
         "pageCss": "",
         "name": "Expected vs Actual Payments"
+      },
+      {
+        "name": "New Link",
+        "url": "",
+        "linkType": "report"
       }
     ],
     "type": "folder",
