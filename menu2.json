@@ -124,7 +124,7 @@
         "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/806596fc-fb23-4e6a-b40a-a82d280366f4/8fce3aa1cdcedded160e?experience=power-bi",
         "linkType": "report",
         "type": "report",
-        "inDevelopment": true,
+        "inDevelopment": false,
         "allowBuild": false,
         "openNewTab": false,
         "pageCss": ""
